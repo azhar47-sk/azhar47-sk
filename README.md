@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Azhar Shaikh</h1>
+
+
 # 💫 About Me:
 🔭 I’m currently studying at Pune University<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for help with Firebase<br>🌱 I’m currently learning React<br>💬 Ask me about Web development
 
